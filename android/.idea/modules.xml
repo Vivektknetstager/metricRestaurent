@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwesomeProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AwesomeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AwesomeProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AwesomeProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1601930407/AwesomeProject.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-1601930407/AwesomeProject.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/664726922/AwesomeProject.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/664726922/AwesomeProject.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1600086387/AwesomeProject.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1600086387/AwesomeProject.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1809079151/AwesomeProject.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1809079151/AwesomeProject.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/566642614/AwesomeProject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/566642614/AwesomeProject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1714441394/AwesomeProject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1714441394/AwesomeProject.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

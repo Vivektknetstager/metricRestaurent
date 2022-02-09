@@ -1,0 +1,4 @@
+#Wed Feb 09 07:16:56 IST 2022
+base.0=/Users/netstager/Desktop/Learning/Calculator/AwesomeProject/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
